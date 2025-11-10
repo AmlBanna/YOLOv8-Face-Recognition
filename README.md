@@ -9,7 +9,7 @@ The system is trained on a **celebrity face dataset** and fine-tuned using **Ult
 ---
 
 ## 🎥 Demo
-[![Demo Video](MEDIA/Demo.gif)](MEDIA/Demo.mp4)
+[![Demo Video](Demo/Tsst.gif)](Demo/Video_Testing.mp4)
 
 ## 🚀 Key Features
 
