@@ -121,7 +121,7 @@ After training:
 
 ---
 
-## 🌐 Gradio Web App (Optional)
+## 🌐 Gradio Web App
 
 The notebook includes a Gradio demo interface where users can:
 
